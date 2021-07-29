@@ -1,0 +1,31 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@expo/webpack-config": "^0.12.56",
+    "@types/markerclustererplus": "^2.1.29",
+    "@types/react": "^16.0.0",
+    "eslint": "^7.19.0",
+    "expo": "~40.0.0",
+    "expo-status-bar": "~1.0.3",
+    "native-base": "^2.15.2",
+    "react": "^16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-maps": "0.27.1",
+    "react-native-web": "~0.13.12",
+    "react-native-web-maps": "^0.3.0",
+    "react-native-windows": "^0.63.19",
+    "react-refresh": "^0.8.2"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
